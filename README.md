@@ -1,4 +1,4 @@
-# hmacdope-PsaA_metal_ion_FF_comparison
+# PsaA_metal_ion_FF_comparison
 Supplementary data for paper on PsaA force-field comparison. 
 
 
