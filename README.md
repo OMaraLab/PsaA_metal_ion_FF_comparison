@@ -1,5 +1,5 @@
-# PsaA_metal_ion_FF_comparison
-Supplementary data for paper on PsaA force-field comparison. 
+# PsaA metal ion FF_comparison
+Supplementary data for paper on PsaA metal ion force-field comparison. 
 
 
 **MacDermott-Opeskin, H., A McDevitt, C., & L O’Mara, M. (2020). Comparing Non-Bonded Metal Ion Models in the Divalent Cation Binding Protein PsaA. Journal of Chemical Theory and Computation, 16(3), 1913–1923. https://doi.org/10.1021/acs.jctc.9b01180**
