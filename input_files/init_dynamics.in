@@ -1,0 +1,17 @@
+!blah
+&cntrl
+  imin=0,      ! no minimisation
+  ntx=1,       ! read only coords no vel
+  ntxo=2,      ! enable netcdf output
+  ntpr=50000,  ! print out every X steps
+  ntwx=50000,  ! write traj every X steps 
+  ntwr=50000,  ! write restart every X steps
+  ntf=2,ntc=2, ! use shake and corresponding potential
+  cut=8.0,     ! pme real space cutoff
+  nstlim=7500000,dt=0.002,nscm=10000, !steps, timestep and com removal
+  temp0=300,ntt=3,ig=-1,gamma_ln=3.0, ! langevin dynamics with y=3.0
+  ntp=0 !no pressure scaling
+  ntb=1, !constant box volume
+  iwrap=1, !wrap trajectories
+&end
+
