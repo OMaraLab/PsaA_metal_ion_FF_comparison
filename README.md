@@ -1,4 +1,4 @@
-# PsaA metal ion FF_comparison
+# PsaA metal ion forcefield comparison
 Supplementary data for paper on PsaA metal ion force-field comparison. 
 
 
